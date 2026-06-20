@@ -137,7 +137,7 @@ Movie-Recommender-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Movie-Recommender-System.git
+git clone https://github.com/devank1234/movie_recommender_system.git
 ```
 
 ### Install Dependencies
